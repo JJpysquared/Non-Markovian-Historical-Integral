@@ -24,5 +24,5 @@ Metrics evaluate the control engines under high-frequency environmental noise tr
 ---
 
 
-For serious inquiries see contact below
+For serious inquiries see contact 
 https://www.linkedin.com/in/juan-de-los-santos-39591b2a3/
